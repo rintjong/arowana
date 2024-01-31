@@ -62,12 +62,7 @@
 
   "Data":
   [
-    {
-      "id":1,
-      "name_category": "Arowana",
-      "title":"Arowana",
-      "image":""
-    },
+    
     {
       "id": 2,
       "name_category": "Arowana",
